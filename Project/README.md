@@ -1,4 +1,4 @@
-# Group Projects
+# Projects
 Here are the [slides](./docus/slides.pdf) and [report](./docus/report.pdf) 
 
 We try four methods separately, Cross Flight is in the [main](https://gitlab.lrz.de/ga84sij/autonomous-systems-2021-group/-/tree/main/Project) branch,  Iterative Cross Flight is in branch [slope_evaluation_and_correction](https://gitlab.lrz.de/ga84sij/autonomous-systems-2021-group/-/tree/slope_evaluation_and_correction/Project_3D_final), Triangulation is in branch [triangulation_3d](https://gitlab.lrz.de/ga84sij/autonomous-systems-2021-group/-/tree/triangulation_3d/Project), Directed Iterative Local Search is in branch [directed-iterative-local-search](https://gitlab.lrz.de/ga84sij/autonomous-systems-2021-group/-/tree/directed-iterative-local-search/). Please check these branches to run the respective methods.
